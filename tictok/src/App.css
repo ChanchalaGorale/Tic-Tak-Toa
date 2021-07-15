@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.box {
+  width: 120px;
+  height: 120px;
+  background-color: #ecf0f1;
+  border-radius: 8px;
+  margin: 2px;
+  text-transform: capitalize;
+  font-size: 50px;
+}
+
+.resetbox {
+  width: fit-content;
+  height: fit-content;
+  border-radius: 8px;
+  margin: 2px;
+  font-size: 20px;
+}
+
+.center {
+  display: inline-block;
+  justify-content: center;
+}
